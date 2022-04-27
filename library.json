@@ -10,7 +10,7 @@
   ],
   "dependencies": [
     {
-      "name": "Lib1",
+      "name": "Lib2",
       "version": "https://github.com/bascy/lib2"
     }
   ]
