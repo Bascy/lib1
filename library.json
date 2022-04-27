@@ -8,5 +8,10 @@
   "platforms": [
     "espressif"
   ],
-  "dependencies": []
+  "dependencies": [
+    {
+      "name": "Lib1",
+      "version": "https://github.com/bascy/lib2"
+    }
+  ]
 }
