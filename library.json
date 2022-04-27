@@ -1,0 +1,12 @@
+{
+  "name": "Lib1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bascy/lib1.git"
+  },
+  "frameworks": "Arduino",
+  "platforms": [
+    "espressif"
+  ],
+  "dependencies": []
+}
